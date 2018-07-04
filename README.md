@@ -2,6 +2,10 @@
 
 Sistema de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/mosfilho/eventex.svg?branch=master)](https://travis-ci.org/mosfilho/eventex)
+
+[![Code Health](https://landscape.io/github/mosfilho/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/mosfilho/eventex/master)
+
 ## Como desenvolver?
 
 1. Clone o repositório.
