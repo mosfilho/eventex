@@ -73,8 +73,8 @@ class SubscribePostTest(TestCase):
         email = mail.outbox[0]
 
         self.assertIn('Milton Filho', email.body)
-        self.assertIn('03831156395', email.body)
-        self.assertIn('86999102776', email.body)
+        self.assertIn('12345678901', email.body)
+        self.assertIn('869999999999', email.body)
         self.assertIn('mosfilho@gmail.com', email.body)
 
 
